@@ -1,0 +1,30 @@
+{
+    "people":[
+        {
+            "id": 1,
+            "fname": "John",
+            "lname": "Doe"
+        },
+        {
+            "id": 2,
+            "fname": "Jane",
+            "lname": "Smith"
+        },
+        {
+            "id": 3,
+            "fname": "Alice",
+            "lname": "Johnson"
+        },
+        {
+            "id": 4,
+            "fname": "Bob",
+            "lname": "Brown"
+        },
+        {
+            "id": 5,
+            "fname": "Charlie",
+            "lname":"Brown"
+        }
+    ]
+    
+}
